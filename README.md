@@ -1,4 +1,4 @@
-# DynamoAdjacencyAnalysis
+# Dynamo Adjacency Analysis
 This Dynamo script is designed for checking distances from one type of programmatic element to another.  The initial inspiration for this script was checking the distance to the nearest equipment storage closet for a set of patient rooms.  Using project parameters, custom groupings of rooms can be selected as start points or destinations, and paths of travel will be drawn from the center point of each starting room to the center point of each destination room.  The distance from the shortest path of travel will be logged in a custom parameter for each starting room, allowing for visualization and / or scheduling. 
 
 ## Requirements ##
